@@ -1,5 +1,7 @@
 # House-Booking-Company
 
+- Code deployed at: [kon-bnb.azurewebsites.net](kon-bnb.azurewebsites.net)
+
 ## Overview
 
 Welcome to my House Booking Company project. This application is designed to facilitate the process of booking and managing properties. It's built with a focus on ease of use for both clients looking to book houses and owners managing their property listings.
