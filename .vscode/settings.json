@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "booking-company/bin/Release/net7.0/publish",
+    "appService.defaultWebAppToDeploy": "None"
+}
