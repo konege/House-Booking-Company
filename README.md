@@ -1,6 +1,6 @@
 # House-Booking-Company
 
-- Code deployed at: [kon-bnb.azurewebsites.net](kon-bnb.azurewebsites.net)
+- Code deployed at: https://kon-bnb.azurewebsites.net
 
 ## Overview
 
