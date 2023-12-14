@@ -1,7 +1,7 @@
 # House-Booking-Company
 
 - Code deployed at: https://kon-bnb.azurewebsites.net
-- The Infomration.docx [Infomration.docx](Infomration.docx) file contains my design, my assumptions, my ER diagram, and a short video introducing my project.
+- The Infomration.docx [Information.docx](Infomration.docx) file contains my design, my assumptions, my ER diagram, and a short video introducing my project.
 
 ## Overview
 
